@@ -1,0 +1,16 @@
+{
+    "icons": [{
+        "src": "images/calc-icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "name": "Calculator",
+    "short_name": "Calculator",
+    "theme_color": "#252a2f",
+    "background_color": "#252a2f",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/calculator-pwa/",
+    "start_url": "/calculator-pwa/",
+    "lang": "en-US"
+  }
